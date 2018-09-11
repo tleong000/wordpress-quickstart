@@ -13,7 +13,7 @@
     "parameters": [
         {
             "name": "APPLICATION_NAME",
-            "description": "The name of the WordPress instance.",
+            "description": "The name of the   WordPress instance.",
             "value": "my-wordpress-site",
             "from": "[a-zA-Z0-9]",
             "required": true
